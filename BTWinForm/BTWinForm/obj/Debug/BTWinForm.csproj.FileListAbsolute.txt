@@ -1,0 +1,12 @@
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\bin\Debug\BTWinForm.exe.config
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\bin\Debug\BTWinForm.exe
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\bin\Debug\BTWinForm.pdb
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.csproj.AssemblyReference.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.frmBai1.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.frmChinh.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.Properties.Resources.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.csproj.GenerateResource.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.csproj.CoreCompileInputs.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.exe
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.pdb
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTWinForm\BTWinForm\obj\Debug\BTWinForm.frmBai2.resources

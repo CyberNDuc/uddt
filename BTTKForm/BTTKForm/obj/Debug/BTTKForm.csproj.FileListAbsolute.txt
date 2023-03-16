@@ -1,0 +1,14 @@
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.exe.config
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.exe
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.pdb
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.AssemblyReference.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.frmBai1.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.FrmChinh.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.Properties.Resources.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.GenerateResource.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.CoreCompileInputs.cache
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.exe
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.pdb
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.frmBai2.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.frmBai3.resources
+D:\Môn Desktop\LabB1\BaiThucHanhBuoi1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.frmBai4.resources

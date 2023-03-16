@@ -1,0 +1,10 @@
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.exe.config
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.exe
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.pdb
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.csproj.AssemblyReference.cache
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.MainForm.resources
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.Properties.Resources.resources
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.csproj.GenerateResource.cache
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.csproj.CoreCompileInputs.cache
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.exe
+D:\Môn Desktop\test\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.pdb
